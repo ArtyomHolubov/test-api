@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "johndoe",
+      "email": "john@example.com",
+      "fullname": "John Doe",
+      "age": 28,
+      "position": "Developer"
+    },
+    {
+      "id": 2,
+      "username": "janedoe",
+      "email": "jane@example.com",
+      "fullname": "Jane Doe",
+      "age": 32,
+      "position": "Designer"
+    },
+    {
+      "id": 3,
+      "username": "billgates",
+      "email": "bill@microsoft.com",
+      "fullname": "Bill Gates",
+      "age": 65,
+      "position": "CEO"
+    },
+    {
+      "id": 4,
+      "username": "stevewoz",
+      "email": "woz@apple.com",
+      "fullname": "Steve Wozniak",
+      "age": 71,
+      "position": "Engineer"
+    },
+    {
+      "id": 5,
+      "username": "elonmusk",
+      "email": "elon@tesla.com",
+      "fullname": "Elon Musk",
+      "age": 50,
+      "position": "CEO"
+    },
+    {
+      "id": 6,
+      "username": "markz",
+      "email": "mark@facebook.com",
+      "fullname": "Mark Zuckerberg",
+      "age": 38,
+      "position": "CEO"
+    },
+    {
+      "id": 7,
+      "username": "larryp",
+      "email": "larry@google.com",
+      "fullname": "Larry Page",
+      "age": 50,
+      "position": "Co-founder"
+    },
+    {
+      "id": 8,
+      "username": "sergeb",
+      "email": "sergey@google.com",
+      "fullname": "Sergey Brin",
+      "age": 49,
+      "position": "Co-founder"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Tech Corp",
+      "address": "123 Tech St, Tech City",
+      "industry": "Technology",
+      "employees": 500,
+      "founded": 1995
+    },
+    {
+      "id": 2,
+      "name": "Design Inc.",
+      "address": "456 Design Ave, Art Town",
+      "industry": "Design",
+      "employees": 300,
+      "founded": 2000
+    },
+    {
+      "id": 3,
+      "name": "Auto Motors",
+      "address": "789 Auto Blvd, Speed City",
+      "industry": "Automobile",
+      "employees": 1000,
+      "founded": 1985
+    },
+    {
+      "id": 4,
+      "name": "Green Energy",
+      "address": "101 Green Rd, Nature Village",
+      "industry": "Renewable Energy",
+      "employees": 700,
+      "founded": 2010
+    },
+    {
+      "id": 5,
+      "name": "Finance First",
+      "address": "202 Money St, Finance City",
+      "industry": "Finance",
+      "employees": 1500,
+      "founded": 1990
+    },
+    {
+      "id": 6,
+      "name": "Space Explorers",
+      "address": "303 Space Ave, Galaxy Hub",
+      "industry": "Aerospace",
+      "employees": 2000,
+      "founded": 2005
+    },
+    {
+      "id": 7,
+      "name": "Food & More",
+      "address": "404 Food Ln, Gourmet Town",
+      "industry": "Food",
+      "employees": 400,
+      "founded": 2015
+    },
+    {
+      "id": 8,
+      "name": "Travel World",
+      "address": "505 Travel Rd, Adventure City",
+      "industry": "Travel",
+      "employees": 600,
+      "founded": 1980
+    }
+  ]
+}
