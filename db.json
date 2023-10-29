@@ -3,66 +3,82 @@
     {
       "id": 1,
       "username": "johndoe",
-      "email": "john@example.com",
+      "email": "john@techcorp.com",
       "fullname": "John Doe",
       "age": 28,
-      "position": "Developer"
+      "position": "Developer",
+      "companyId": 1,
+      "companyName": "Tech Corp"
     },
     {
       "id": 2,
       "username": "janedoe",
-      "email": "jane@example.com",
+      "email": "jane@designinc.com",
       "fullname": "Jane Doe",
       "age": 32,
-      "position": "Designer"
+      "position": "Designer",
+      "companyId": 2,
+      "companyName": "Design Inc."
     },
     {
       "id": 3,
       "username": "billgates",
-      "email": "bill@microsoft.com",
+      "email": "bill@automotors.com",
       "fullname": "Bill Gates",
       "age": 65,
-      "position": "CEO"
+      "position": "CEO",
+      "companyId": 3,
+      "companyName": "Auto Motors"
     },
     {
       "id": 4,
       "username": "stevewoz",
-      "email": "woz@apple.com",
+      "email": "woz@greenenergy.com",
       "fullname": "Steve Wozniak",
       "age": 71,
-      "position": "Engineer"
+      "position": "Engineer",
+      "companyId": 4,
+      "companyName": "Green Energy"
     },
     {
       "id": 5,
       "username": "elonmusk",
-      "email": "elon@tesla.com",
+      "email": "elon@financefirst.com",
       "fullname": "Elon Musk",
       "age": 50,
-      "position": "CEO"
+      "position": "CEO",
+      "companyId": 5,
+      "companyName": "Finance First"
     },
     {
       "id": 6,
       "username": "markz",
-      "email": "mark@facebook.com",
+      "email": "mark@spaceexplorers.com",
       "fullname": "Mark Zuckerberg",
       "age": 38,
-      "position": "CEO"
+      "position": "CEO",
+      "companyId": 6,
+      "companyName": "Space Explorers"
     },
     {
       "id": 7,
       "username": "larryp",
-      "email": "larry@google.com",
+      "email": "larry@foodandmore.com",
       "fullname": "Larry Page",
       "age": 50,
-      "position": "Co-founder"
+      "position": "Co-founder",
+      "companyId": 7,
+      "companyName": "Food & More"
     },
     {
       "id": 8,
       "username": "sergeb",
-      "email": "sergey@google.com",
+      "email": "sergey@travelworld.com",
       "fullname": "Sergey Brin",
       "age": 49,
-      "position": "Co-founder"
+      "position": "Co-founder",
+      "companyId": 8,
+      "companyName": "Travel World"
     }
   ],
   "companies": [
